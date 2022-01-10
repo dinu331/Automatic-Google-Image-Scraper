@@ -1,4 +1,4 @@
-# Google-Image-Scraper
+# Automatic Google Image Scraper
 
 Hello all,
 This is an automated system that can automatically extract the requested number of images from the Google Images. 
